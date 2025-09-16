@@ -9,12 +9,18 @@ Eventra is a web application designed to keep students connected with all the ev
 - Admin panel to manage and update events  
 
 ## 🛠️ Tech Stack  
-- Frontend: [Your frontend framework here, e.g., React, Angular]  
-- Backend: [Your backend framework here, e.g., Node.js, Django]  
-- Database: [e.g., MongoDB, MySQL]  
-- Notifications: [e.g., Firebase, custom system]  
+- Frontend: HTML, CSS, JS
+- Backend: PHP
+- Database: SQL
 
-## 📂 Installation & Setup  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/your-username/eventra.git
+📌 Future Enhancements
+
+Mobile app integration
+
+Event reminders with calendar sync
+
+Feedback and rating system for events
+
+🤝 Contributing
+
+Contributions are welcome! Please fork the repo and create a pull request for any feature or bug fix.
